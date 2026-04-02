@@ -1,4 +1,4 @@
-# 🚗 Proyecto SQL: Sistema de Gestión de Viajes (Ride-Share)
+# 🚗 Proyecto SQL: Sistema de Gestión de Viajes (Ride)
 
 Diseño de base de datos relacional para una plataforma de movilidad urbana.
 
