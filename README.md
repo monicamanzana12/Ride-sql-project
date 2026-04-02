@@ -7,14 +7,14 @@ Diseño de base de datos relacional para una plataforma de movilidad urbana.
 ## 📊 Modelo Entidad-Relación
 El siguiente diagrama muestra la arquitectura de las tablas y sus relaciones (Usuarios, Conductores, Viajes, etc.):
 
-![Diagrama ERD](diagrama.png)
+![Diagrama ERD](diagrama.png.png)
 
 ---
 
 ## 💻 Implementación en pgAdmin
 Vista previa del código DDL utilizado para la creación de la estructura:
 
-![Vista de Código](codigo.png)
+![Vista de Código](codigo.png.png)
 
 ---
 
