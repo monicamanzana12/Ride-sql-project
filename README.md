@@ -21,7 +21,7 @@ Vista previa del código DDL utilizado para la creación de la estructura:
 ## 📂 Cómo ejecutarlo
 1. Descarga el archivo `.sql` de este repositorio.
 2. En pgAdmin, crea una nueva base de datos.
-3. Abre el **Query Tool** y pega el contenido del archivo para generar las tablas.
+3. Abre **Query Tool** y pega el contenido del archivo para generar las tablas.
 
 ---
 **Desarrollado por Monica Trinidad**  
